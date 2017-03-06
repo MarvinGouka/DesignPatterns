@@ -11,7 +11,7 @@ function handleSubmit(e) {
     let text = form.search.value;
     
     // Textobject
-    
+    test
     if(form.lowercase.checked) {
         console.log("Alle karakters naar lowercase");
         
